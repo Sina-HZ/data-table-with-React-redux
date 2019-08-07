@@ -1,0 +1,29 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+		border-spacing: 0;
+    width: 80%;
+    max-width: 900px;
+		overflow: hidden;
+    box-shadow: 0px 2px 5px 0px rgba(222, 222, 222, 0.8);
+  }
+  
+  td {
+    text-align: center;
+    padding: 8px;
+    background-color: #f7f7f7;
+  }
+
+  th {
+    text-align: center;
+    padding: 8px;
+    color: #adadad;
+  }
+
+  tr {
+    border-bottom: 1px solid #e0e0e0;
+  }
+  
+  /* tr:nth-child(even) {
+    background-color: #dddddd;
+  } */
